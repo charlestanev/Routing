@@ -1,0 +1,25 @@
+{
+  "name": "routing",
+  "version": "1.0.0",
+  "description": "Routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlestanev/Routing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlestanev/Routing/issues"
+  },
+  "homepage": "https://github.com/charlestanev/Routing#readme",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "lit-html": "^1.4.1",
+    "page": "^1.11.6"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "01.Furniture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server -a localhost -p 3000 -P http://localhost:3000? -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "lit-html": "^1.4.1",
+    "page": "^1.11.6"
+  }
+}
